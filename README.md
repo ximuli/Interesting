@@ -4,6 +4,8 @@
 
 # 正文
 
+## 工具
+
 [day.js](https://github.com/iamkun/dayjs)
 
 一个 2KB 的 JS 日期时间库，和 Moment.js 的 API 设计保持完全一样（虽然我也没用过 Moment.js）。
@@ -20,7 +22,19 @@
 
 在 git commit message 里面使用 emoji 的工具。
 
-<img src="https://cloud.githubusercontent.com/assets/7629661/20454643/11eb9e40-ae47-11e6-90db-a1ad8a87b495.gif" width="50%" style="margin: 20px 0;">
+<img src="https://cloud.githubusercontent.com/assets/7629661/20454643/11eb9e40-ae47-11e6-90db-a1ad8a87b495.gif" width="70%" style="margin: 20px 0;">
+
+
+
+## 资源
+
+[WikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+
+一个收集如何解决生活中各种问题的网站，比如"如何换轮胎"、"如何调整电脑字体大小"等等。
+
+[互动式计算机语言学习网站](https://www.learn-js.org/)
+
+该网站提供近10种常用语言（C、Python、JS、Java 等等）的实例教程。
 
 
 
@@ -33,6 +47,22 @@
 
 
 ## 文章
+
+[JavaScript 模块简史](https://ponyfoo.com/articles/brief-history-of-modularity)（英文）
+
+本文介绍历史上 JavaScript 各种模块方案的演变。
+
+
+
+[JSX 的替代方案](https://blog.bloomca.me/2019/02/23/alternatives-to-jsx.html)（英文）
+
+JSX 是前端框架中书写网页代码的一种形式，本文介绍了 JSX 的替代方案，如果不用它，你有什么选择，以加深理解。
+
+
+
+[创建你的第一个 npm 包](https://www.danvega.me/blog/2019/02/10/creating-your-first-npm-package/)（英文）
+
+入门文章，针对新手介绍如何创建一个 npm 模块。
 
 
 
