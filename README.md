@@ -1,6 +1,6 @@
 # 因吹斯汀
 
-欢迎来到这里。这里会记录作者从网络上四处搜刮来的认为对自己有用或者作者感兴趣的一些链接。
+欢迎来到这里。这里会记录作者从网络上四处搜刮来的认为对自己有用或者作者感兴趣的一些链接，正好也能整理一下书签。
 
 # 正文
 
@@ -26,6 +26,18 @@
 
 
 
+[大前端工具集](<https://github.com/nieweidong/fetool>)
+
+这个项目的定位是 **大前端程序猿的百宝箱**。主要针对 前端方向和 Node 方向；主要内容是国内外优秀的 `库`、`工具`、`套路`、`设计`、`交互`，或关注的 `技术博客`、`技术组织`、`技术公众号` 等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
+
+
+
+[Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+
+粘贴到该窗口的任何文本内容，都会自动转为 Markdown 格式。
+
+
+
 ## 资源
 
 [WikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
@@ -43,6 +55,12 @@
 [计算机理论导论](https://introtcs.org/public/index.html)
 
 哈佛大学本科生的《计算机理论》课程的教材，已经开源。
+
+
+
+[Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)
+
+免费的英文电子书，介绍如何以 TDD 的方式开发互联网应用，使用 Django 框架举例。
 
 
 
@@ -65,6 +83,10 @@ JSX 是前端框架中书写网页代码的一种形式，本文介绍了 JSX �
 入门文章，针对新手介绍如何创建一个 npm 模块。
 
 
+
+## 博客
+
+[马蹄铁 - 以专题为单位的学习](<https://github.com/veedrin/horseshoe>)
 
 
 
