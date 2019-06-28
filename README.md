@@ -12,9 +12,7 @@
 
 [好片分享](./好片分享.md)
 
-# 正文
-
-## 工具
+# 工具
 
 [day.js](https://github.com/iamkun/dayjs)
 
@@ -38,7 +36,7 @@
 
 粘贴到该窗口的任何文本内容，都会自动转为 Markdown 格式。
 
-## 文章
+# 文章
 
 [JavaScript 模块简史](https://ponyfoo.com/articles/brief-history-of-modularity)（英文）
 
@@ -52,7 +50,7 @@ JSX 是前端框架中书写网页代码的一种形式，本文介绍了 JSX �
 
 入门文章，针对新手介绍如何创建一个 npm 模块。
 
-## 一点想法
+# 一点想法
 
 少即是多
 
