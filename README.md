@@ -38,6 +38,10 @@
 
 # 文章
 
+[看看大神 Paul Graham 对如何学习编程的回答 - HelloGithub](https://mp.weixin.qq.com/s/5AFBbkgZ8IzsFWObbvbJSQ)
+
+起步的时候不要去解决太难的问题。一种好的方法建议：修改一个已有的程序，让它实现新的、更多的功能。
+
 [JavaScript 模块简史](https://ponyfoo.com/articles/brief-history-of-modularity)（英文）
 
 本文介绍历史上 JavaScript 各种模块方案的演变。
