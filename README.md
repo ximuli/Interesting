@@ -6,10 +6,32 @@
 
 此文下的大部分内容会是与技术相关的。
 
-当然除了技术之外还有其他内容也许值得你看一看：
+当然除了技术之外还有其他内容也许值得看一看：
 
-[好片分享](./好片分享.md)
+[好片分享](./videos.md)
 [好文收藏](./好文收藏.md)
+
+# 博客
+
+## 个人
+
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
+[鑫空间鑫生活](https://www.zhangxinxu.com/)
+
+[酷壳 – CoolShell](https://coolshell.cn/)
+
+[廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+
+[晚晴幽草轩](https://www.jeffjade.com/)
+
+[小胡子哥的个人网站](https://www.barretlee.com/entry/)
+
+## 收集
+
+[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+
+[寻我 | 优秀个人独立博客收录](https://seekbetter.me/?mode=blog)
 
 # 工具
 
