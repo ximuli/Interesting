@@ -12,6 +12,9 @@
 * 《Helvetica》
 * 《代码奔腾》（Code Rush）
 * 《美国工厂》 --> 曹德旺先生赴美建厂的纪录片
+    
+    * 相关文章：[我更理解特朗普的焦虑了-连岳](https://mp.weixin.qq.com/s/C6Ecs1dwYxABUxPInaymSQ)
+
 * 《中国通史》
 * 《人生七年》
 
