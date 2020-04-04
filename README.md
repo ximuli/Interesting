@@ -10,6 +10,7 @@
 
 [好片分享](./videos.md)
 [好文收藏](./好文收藏.md)
+[连岳荐书](./theBooksRecommendedByUncleLian.md)
 
 # 博客
 
