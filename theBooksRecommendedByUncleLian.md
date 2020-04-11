@@ -51,8 +51,9 @@
 
 [《美国大萧条》](https://mp.weixin.qq.com/s/vXL_zgoB16kryZ7ZTbERkg)
 
-
 ## 文章收藏
+
+[推荐几本好书](https://mp.weixin.qq.com/s/fQyQyXCXukQ0XxszEKnaJQ)
 
 [该我的，在今天拿](https://mp.weixin.qq.com/s/GA9FjsePV9VA0TJC_X-5SA)
 
