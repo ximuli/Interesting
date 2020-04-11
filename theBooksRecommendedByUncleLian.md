@@ -2,7 +2,6 @@
 
 此文主要收集连岳推荐过的书籍，主要来源于微信公众号：连岳。
 
-
 [阅读两戒](https://mp.weixin.qq.com/s/_Ze2yZByyoLbtM6BMXYKPA)
 
 # 正文
@@ -14,6 +13,13 @@
 [《领导力》](https://mp.weixin.qq.com/s/xfZB-K8D7eEm6eZsV7m0qw)
 
 [《犹太人与犹太教》](https://mp.weixin.qq.com/s/SPL4t8lbfwnrLa5V6QbTOQ)
+
+
+## 王小波
+
+[《王小波作品集》](https://mp.weixin.qq.com/s/ehdMIn9cqdoMy_VGc6aakA)
+
+[《一只特立独行的猪》](https://mp.weixin.qq.com/s/293gOHpP781sO9uTXlbz9g)
 
 ## 未分类
 
@@ -43,3 +49,15 @@
 
 [《人性的弱点》](https://mp.weixin.qq.com/s/scqmiaoENZ5GnemhPRFAKQ)
 
+[《美国大萧条》](https://mp.weixin.qq.com/s/vXL_zgoB16kryZ7ZTbERkg)
+
+
+## 文章收藏
+
+[该我的，在今天拿](https://mp.weixin.qq.com/s/GA9FjsePV9VA0TJC_X-5SA)
+
+[为什么一说到投资你就来劲？](https://mp.weixin.qq.com/s/Z3PRyUbBQevzczE9HwiseA)
+
+[不当洋葱人](https://mp.weixin.qq.com/s/WC0dBuCkLwlp2hme3TreqQ)
+
+[人有骡命，不为爱受累，就得为不爱受累](https://mp.weixin.qq.com/s/LefEcr59rWbw1TssKP7HqQ)
