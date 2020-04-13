@@ -51,6 +51,9 @@
 
 [《美国大萧条》](https://mp.weixin.qq.com/s/vXL_zgoB16kryZ7ZTbERkg)
 
+[《禅者的初心》](https://mp.weixin.qq.com/s/wvk8lWlRKaRi7PhCpHCh0Q)
+
+
 ## 文章收藏
 
 [推荐几本好书](https://mp.weixin.qq.com/s/fQyQyXCXukQ0XxszEKnaJQ)
