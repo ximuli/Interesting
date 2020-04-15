@@ -4,9 +4,10 @@
 
 [阅读两戒](https://mp.weixin.qq.com/s/_Ze2yZByyoLbtM6BMXYKPA)
 
-# 正文
+# 荐书 
 
-## 《牛津通识读本》全系列
+<details>
+<summary>《牛津通识读本》全系列</summary>
 
 [《自闭症》](https://mp.weixin.qq.com/s/4z84Zpd-DnatVv4LSW4sow)
 
@@ -14,14 +15,20 @@
 
 [《犹太人与犹太教》](https://mp.weixin.qq.com/s/SPL4t8lbfwnrLa5V6QbTOQ)
 
+</details>
 
-## 王小波
+<details>
+<summary>王小波</summary>
 
 [《王小波作品集》](https://mp.weixin.qq.com/s/ehdMIn9cqdoMy_VGc6aakA)
 
 [《一只特立独行的猪》](https://mp.weixin.qq.com/s/293gOHpP781sO9uTXlbz9g)
 
-## 未分类
+</details>
+
+
+<details>
+<summary>未分类</summary>
 
 [《奇点临近》](https://mp.weixin.qq.com/s/PapKipaqeC1Ep3a5hB2TYA)
 
@@ -53,8 +60,16 @@
 
 [《禅者的初心》](https://mp.weixin.qq.com/s/wvk8lWlRKaRi7PhCpHCh0Q)
 
+</details>
 
-## 文章收藏
+<details>
+<summary>2020年推荐</summary>
+
+[《邓小平传》](https://mp.weixin.qq.com/s/l9B40OSCTg-iWwzYe4kCBA)
+
+</details>
+
+# 文章收藏
 
 [推荐几本好书](https://mp.weixin.qq.com/s/fQyQyXCXukQ0XxszEKnaJQ)
 
