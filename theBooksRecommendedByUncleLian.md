@@ -56,8 +56,6 @@
 
 [《人性的弱点》](https://mp.weixin.qq.com/s/scqmiaoENZ5GnemhPRFAKQ)
 
-[《美国大萧条》](https://mp.weixin.qq.com/s/vXL_zgoB16kryZ7ZTbERkg)
-
 [《禅者的初心》](https://mp.weixin.qq.com/s/wvk8lWlRKaRi7PhCpHCh0Q)
 
 </details>
@@ -65,7 +63,11 @@
 <details>
 <summary>2020年推荐</summary>
 
+[KK三部曲《失控》、《科技想要什么》、《必然》](https://mp.weixin.qq.com/s/ZATWf_DczuP_AkGJJkTZIA)
+
 [《邓小平传》](https://mp.weixin.qq.com/s/l9B40OSCTg-iWwzYe4kCBA)
+
+[《美国大萧条》](https://mp.weixin.qq.com/s/uTaEkt3XB7BTLjrSADkmMA)
 
 </details>
 
