@@ -15,6 +15,8 @@
 
 [《犹太人与犹太教》](https://mp.weixin.qq.com/s/SPL4t8lbfwnrLa5V6QbTOQ)
 
+[《牛顿新传》](https://mp.weixin.qq.com/s/k532ZTlcfDhNwEt_LeN7iw)
+
 </details>
 
 <details>
