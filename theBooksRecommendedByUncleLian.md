@@ -73,6 +73,10 @@
 
 [《大国大城：当代中国的统一、发展与平衡》](https://mp.weixin.qq.com/s/S14nqC2ld-XXSXwzEhzQzA)
 
+[《亨利·福特自传》](https://mp.weixin.qq.com/s/qAzr7-KKWNa2OHjDsKliSQ)
+
+[《富甲美国：沃尔玛创始人山姆·沃尔顿自传》](https://mp.weixin.qq.com/s/rYPqWChshqUpGZdICRPm4w)
+
 </details>
 
 # 文章收藏
