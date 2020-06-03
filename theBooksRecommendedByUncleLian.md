@@ -77,6 +77,8 @@
 
 [《富甲美国：沃尔玛创始人山姆·沃尔顿自传》](https://mp.weixin.qq.com/s/rYPqWChshqUpGZdICRPm4w)
 
+[《这才是心理学：看穿伪心理学的批判性思维》](https://mp.weixin.qq.com/s/MpAPIUGc0eLg2Sbh8Vo_8Q)
+
 </details>
 
 # 文章收藏
