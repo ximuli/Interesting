@@ -17,6 +17,8 @@
 
 [《牛顿新传》](https://mp.weixin.qq.com/s/k532ZTlcfDhNwEt_LeN7iw)
 
+[《数学》](https://mp.weixin.qq.com/s/Z9SmSo7XHuX8SkLCPLHBQA)
+
 </details>
 
 <details>
@@ -78,6 +80,12 @@
 [《富甲美国：沃尔玛创始人山姆·沃尔顿自传》](https://mp.weixin.qq.com/s/rYPqWChshqUpGZdICRPm4w)
 
 [《这才是心理学：看穿伪心理学的批判性思维》](https://mp.weixin.qq.com/s/MpAPIUGc0eLg2Sbh8Vo_8Q)
+
+[文明、现代化、价值投资与中国](https://mp.weixin.qq.com/s/mwEh45VUEMOGG7sMdkpCCA)
+
+[文明、现代化、价值投资与中国](https://mp.weixin.qq.com/s/Jeks0ZD8vOvrX2qFlkz8yA)
+
+
 
 </details>
 
